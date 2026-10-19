@@ -1,0 +1,2 @@
+# premium-style-form-001-bonsai-style-classification-an
+Tired of losing track of your bonsai's development because you're mixing up styles and goals? This planner turns your scattered notes into a clear roadmap for each tree’s unique style journey.  This Notion template solves the chaos of managing multiple bonsai by providing a systematic way to classify each tree by its style (formal upright, cascade,
